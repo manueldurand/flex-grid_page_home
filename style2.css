@@ -1,0 +1,102 @@
+body{
+    width: 700px;
+    height: 900px;
+    box-sizing: border-box;
+    border: 1px solid grey;
+}
+#bloc_page{
+    width: 100wh;
+    height: 90vh ;
+    margin : 20px;
+    background-color: lightgreen;
+    padding: 3%;
+    border: 1px solid grey;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: lightgray;
+    width: 90%;
+    height: 12%;
+    margin: auto;
+    padding: 2%;
+    border: 1px solid grey;
+}
+#titre_principal{
+    justify-self: left;
+    width: 22%;
+    height: 90%;
+    background-color: grey;
+    margin: 0;
+    border: 1px solid grey;
+}
+nav{
+    align-self: flex-end;
+    height: 40%;
+    width: 65%;
+    background-color: bisque;
+    margin: 0.5%;
+    border: 1px solid grey;
+}
+#banniere_page{
+    height: 8%;
+    width: 95%;
+    background-color: blue;
+    margin: 2.5%;
+    border: 1px solid grey;
+}
+section{
+    display: flex;
+    width: 95%;
+    height: 50%;
+    background-color: yellow;
+    margin: 2.5%;
+    padding-top: 1%;
+    border: 1px solid grey;
+}
+article{
+    width: 65%;
+    height: 90%;
+    background-color: orange;
+    margin: 2.5%;
+    border: 1px solid grey;
+}
+aside{
+    width: 25%;
+    height: 75%;
+    margin: 2.5%;
+    background-color: green;
+    border: 1px solid grey;
+}
+footer{
+    display: flex;
+    width: 95%;
+    height: 15%;
+    background-color: green;
+    margin-top: 8%;
+    margin-bottom: 3%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    border: 1px solid grey;
+}
+#tweet{
+    width: 33%;
+    height: 85%;
+    background-color: rgb(90, 236, 236);
+    margin: 1.5%;
+    border: 1px solid grey;
+}
+#mes_photos{
+    width: 27%;
+    height: 85%;
+    background-color: rgb(232, 161, 40);
+    margin: 1.5%;
+    border: 1px solid grey;
+}
+#mes_amis{
+    width: 30%;
+    height: 85%;
+    background-color: rgb(73, 75, 75);
+    margin: 1.5%;
+    border: 1px solid grey;
+}

@@ -1,0 +1,75 @@
+body{
+    width: 700px;
+    height: 900px;
+    box-sizing: border-box;
+    border: 1px solid grey;
+}
+#bloc_page{
+    width: 100wh;
+    height: 90vh ;
+    margin : 20px;
+    background-color: lightgreen;
+    padding: 3%;
+    border: 1px solid grey;
+}
+header{
+    background-color: lightgray;
+    width: 90%;
+    height: 12%;
+    margin: auto;
+    padding: 2%;
+    border: 1px solid grey;
+}
+#titre_principal{
+    width: 95%;
+    height: 40%;
+    background-color: grey;
+    margin: auto;
+    border: 1px solid grey;
+}
+nav{
+    height: 40%;
+    width: 95%;
+    background-color: bisque;
+    margin: 2.5%;
+    border: 1px solid grey;
+}
+#banniere_page{
+    height: 8%;
+    width: 95%;
+    background-color: blue;
+    margin: 2.5%;
+    border: 1px solid grey;
+}
+section{
+    width: 95%;
+    height: 40%;
+    background-color: yellow;
+    margin: 2.5%;
+    padding-top: 1%;
+    border: 1px solid grey;
+}
+article{
+    width: 95%;
+    height: 60%;
+    background-color: orange;
+    margin: 2.5%;
+    border: 1px solid grey;
+}
+aside{
+    width: 95%;
+    height: 20%;
+    margin: 2.5%;
+    background-color: green;
+    border: 1px solid grey;
+}
+footer{
+    width: 95%;
+    height: 20%;
+    background-color: green;
+    margin-top: 12.5%;
+    margin-bottom: 3%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    border: 1px solid grey;
+}
